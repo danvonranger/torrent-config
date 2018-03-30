@@ -1,0 +1,30 @@
+{
+  "name": "torrent-config",
+  "version": "1.0.0",
+  "description": "Torrent related config data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danvonranger/torrent-config.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "Daniel Ranger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danvonranger/torrent-config/issues"
+  },
+  "homepage": "https://github.com/danvonranger/torrent-config#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "xml2js": "^0.4.19"
+  }
+}

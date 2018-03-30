@@ -1,0 +1,28 @@
+{
+  "series": [
+    {
+      "name": "12 Monkeys",
+      "id": "12monkeys",
+      "episodes": [
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "American Pickers",
+      "id": "americanpickers",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        }
+      ]
+    }
+  ]
+}
