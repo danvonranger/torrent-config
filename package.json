@@ -2,9 +2,12 @@
   "name": "torrent-config",
   "version": "1.0.0",
   "description": "Torrent related config data",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "cd ../torrent-config-ui && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -14,7 +17,7 @@
     "config"
   ],
   "author": "Daniel Ranger",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/danvonranger/torrent-config/issues"
   },
@@ -24,7 +27,7 @@
   },
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
-    "xml2js": "^0.4.19"
+    "concurrently": "^3.5.1",
+    "express": "^4.16.3"
   }
 }
