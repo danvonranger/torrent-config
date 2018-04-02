@@ -3048,11 +3048,11 @@
         },
         {
           "season": "11",
-          "episode": "2"
+          "episode": "1"
         },
         {
           "season": "11",
-          "episode": "1"
+          "episode": "2"
         },
         {
           "season": "11",
@@ -4045,6 +4045,14 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -4082,14 +4090,6 @@
         {
           "season": "1",
           "episode": "10"
-        },
-        {
-          "season": "1",
-          "episode": "11"
-        },
-        {
-          "season": "1",
-          "episode": "12"
         },
         {
           "season": "1",
@@ -4104,6 +4104,22 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -4113,14 +4129,6 @@
         {
           "season": "1",
           "episode": "3"
-        },
-        {
-          "season": "1",
-          "episode": "4"
-        },
-        {
-          "season": "1",
-          "episode": "5"
         },
         {
           "season": "1",
@@ -4137,14 +4145,6 @@
         {
           "season": "1",
           "episode": "9"
-        },
-        {
-          "season": "1",
-          "episode": "10"
-        },
-        {
-          "season": "2",
-          "episode": "1"
         },
         {
           "season": "2",
@@ -4190,8 +4190,8 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
-          "episode": "*"
+          "season": "3",
+          "episode": "11"
         },
         {
           "season": "2",
@@ -4199,7 +4199,23 @@
         },
         {
           "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
           "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "*"
         },
         {
           "season": "3",
@@ -4232,22 +4248,6 @@
         {
           "season": "3",
           "episode": "9"
-        },
-        {
-          "season": "3",
-          "episode": "10"
-        },
-        {
-          "season": "3",
-          "episode": "11"
-        },
-        {
-          "season": "3",
-          "episode": "12"
-        },
-        {
-          "season": "3",
-          "episode": "13"
         },
         {
           "season": "4",
@@ -4261,6 +4261,34 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
           "season": "1",
           "episode": "1"
         },
@@ -4287,14 +4315,6 @@
         {
           "season": "1",
           "episode": "7"
-        },
-        {
-          "season": "1",
-          "episode": "8"
-        },
-        {
-          "season": "1",
-          "episode": "9"
         },
         {
           "season": "1",
@@ -4330,14 +4350,6 @@
         },
         {
           "season": "2",
-          "episode": "8"
-        },
-        {
-          "season": "2",
-          "episode": "9"
-        },
-        {
-          "season": "2",
           "episode": "10"
         },
         {
@@ -4367,18 +4379,6 @@
         {
           "season": "3",
           "episode": "7"
-        },
-        {
-          "season": "3",
-          "episode": "8"
-        },
-        {
-          "season": "3",
-          "episode": "9"
-        },
-        {
-          "season": "3",
-          "episode": "10"
         }
       ]
     },
@@ -4388,8 +4388,64 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "17"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
           "season": "1",
           "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "13"
         },
         {
           "season": "1",
@@ -4422,14 +4478,6 @@
         {
           "season": "2",
           "episode": "3"
-        },
-        {
-          "season": "2",
-          "episode": "4"
-        },
-        {
-          "season": "2",
-          "episode": "5"
         },
         {
           "season": "2",
@@ -4473,14 +4521,6 @@
         },
         {
           "season": "3",
-          "episode": "4"
-        },
-        {
-          "season": "3",
-          "episode": "5"
-        },
-        {
-          "season": "3",
           "episode": "6"
         },
         {
@@ -4494,14 +4534,6 @@
         {
           "season": "3",
           "episode": "9"
-        },
-        {
-          "season": "3",
-          "episode": "10"
-        },
-        {
-          "season": "3",
-          "episode": "11"
         },
         {
           "season": "3",
@@ -4521,14 +4553,6 @@
         },
         {
           "season": "3",
-          "episode": "16"
-        },
-        {
-          "season": "3",
-          "episode": "17"
-        },
-        {
-          "season": "3",
           "episode": "18"
         },
         {
@@ -4542,14 +4566,6 @@
         {
           "season": "4",
           "episode": "1"
-        },
-        {
-          "season": "4",
-          "episode": "2"
-        },
-        {
-          "season": "4",
-          "episode": "3"
         },
         {
           "season": "4",
@@ -4584,14 +4600,6 @@
           "episode": "11"
         },
         {
-          "season": "4",
-          "episode": "12"
-        },
-        {
-          "season": "4",
-          "episode": "13"
-        },
-        {
           "season": "5",
           "episode": "1"
         },
@@ -4606,14 +4614,6 @@
         {
           "season": "5",
           "episode": "4"
-        },
-        {
-          "season": "5",
-          "episode": "5"
-        },
-        {
-          "season": "5",
-          "episode": "6"
         },
         {
           "season": "5",
@@ -4651,6 +4651,14 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
           "season": "1",
           "episode": "*"
         },
@@ -4669,14 +4677,6 @@
         {
           "season": "4",
           "episode": "2"
-        },
-        {
-          "season": "4",
-          "episode": "3"
-        },
-        {
-          "season": "4",
-          "episode": "4"
         },
         {
           "season": "4",
@@ -4694,6 +4694,22 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
           "season": "1",
           "episode": "*"
         },
@@ -4703,27 +4719,11 @@
         },
         {
           "season": "3",
-          "episode": "1"
-        },
-        {
-          "season": "3",
-          "episode": "2"
-        },
-        {
-          "season": "3",
           "episode": "3"
         },
         {
           "season": "3",
           "episode": "4"
-        },
-        {
-          "season": "3",
-          "episode": "5"
-        },
-        {
-          "season": "3",
-          "episode": "6"
         },
         {
           "season": "3",
@@ -4746,6 +4746,14 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -4763,14 +4771,6 @@
         {
           "season": "1",
           "episode": "5"
-        },
-        {
-          "season": "1",
-          "episode": "6"
-        },
-        {
-          "season": "1",
-          "episode": "7"
         },
         {
           "season": "1",
@@ -7046,22 +7046,6 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
-          "episode": "*"
-        },
-        {
-          "season": "2",
-          "episode": "1"
-        },
-        {
-          "season": "2",
-          "episode": "2"
-        },
-        {
-          "season": "2",
-          "episode": "3"
-        },
-        {
           "season": "2",
           "episode": "4"
         },
@@ -7071,11 +7055,27 @@
         },
         {
           "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
           "episode": "6"
         },
         {
           "season": "2",
-          "episode": "7"
+          "episode": "9"
         },
         {
           "season": "2",
@@ -7083,7 +7083,7 @@
         },
         {
           "season": "2",
-          "episode": "9"
+          "episode": "7"
         },
         {
           "season": "2",
@@ -7095,11 +7095,11 @@
         },
         {
           "season": "2",
-          "episode": "12"
+          "episode": "13"
         },
         {
           "season": "2",
-          "episode": "13"
+          "episode": "12"
         }
       ]
     },
@@ -7110,19 +7110,11 @@
       "episodes": [
         {
           "season": "1",
-          "episode": "1"
+          "episode": "2"
         },
         {
           "season": "1",
-          "episode": "2"
-        },
-        {
-          "season": "2",
           "episode": "1"
-        },
-        {
-          "season": "2",
-          "episode": "2"
         },
         {
           "season": "2",
@@ -7130,7 +7122,11 @@
         },
         {
           "season": "2",
-          "episode": "4"
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
         },
         {
           "season": "2",
@@ -7138,7 +7134,7 @@
         },
         {
           "season": "2",
-          "episode": "6"
+          "episode": "4"
         },
         {
           "season": "2",
@@ -7146,15 +7142,19 @@
         },
         {
           "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
           "episode": "8"
         },
         {
           "season": "2",
-          "episode": "9"
+          "episode": "10"
         },
         {
           "season": "2",
-          "episode": "10"
+          "episode": "9"
         }
       ]
     },
@@ -7169,7 +7169,7 @@
         },
         {
           "season": "1",
-          "episode": "2"
+          "episode": "4"
         },
         {
           "season": "1",
@@ -7177,15 +7177,15 @@
         },
         {
           "season": "1",
-          "episode": "4"
-        },
-        {
-          "season": "1",
-          "episode": "5"
+          "episode": "2"
         },
         {
           "season": "1",
           "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "5"
         },
         {
           "season": "1",
@@ -7220,11 +7220,15 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
           "season": "1",
-          "episode": "2"
+          "episode": "6"
         },
         {
           "season": "1",
@@ -7233,10 +7237,6 @@
         {
           "season": "1",
           "episode": "5"
-        },
-        {
-          "season": "1",
-          "episode": "6"
         }
       ]
     },
@@ -7246,12 +7246,12 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
-          "episode": "*"
-        },
-        {
           "season": "2",
           "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "*"
         },
         {
           "season": "2",
@@ -7263,11 +7263,11 @@
         },
         {
           "season": "2",
-          "episode": "4"
+          "episode": "5"
         },
         {
           "season": "2",
-          "episode": "5"
+          "episode": "4"
         },
         {
           "season": "2",
@@ -7275,11 +7275,11 @@
         },
         {
           "season": "2",
-          "episode": "7"
+          "episode": "8"
         },
         {
           "season": "2",
-          "episode": "8"
+          "episode": "7"
         }
       ]
     },
@@ -7289,20 +7289,20 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
-          "episode": "*"
-        },
-        {
           "season": "2",
           "episode": "*"
         },
         {
-          "season": "3",
-          "episode": "1"
+          "season": "1",
+          "episode": "*"
         },
         {
           "season": "3",
           "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "1"
         },
         {
           "season": "3",
@@ -7345,12 +7345,8 @@
           "episode": "12"
         },
         {
-          "season": "3",
-          "episode": "13"
-        },
-        {
           "season": "4",
-          "episode": "1"
+          "episode": "3"
         },
         {
           "season": "4",
@@ -7358,15 +7354,19 @@
         },
         {
           "season": "4",
-          "episode": "3"
+          "episode": "1"
         },
         {
-          "season": "4",
-          "episode": "4"
+          "season": "3",
+          "episode": "13"
         },
         {
           "season": "4",
           "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "8"
         },
         {
           "season": "4",
@@ -7378,7 +7378,7 @@
         },
         {
           "season": "4",
-          "episode": "8"
+          "episode": "4"
         },
         {
           "season": "4",
@@ -7413,7 +7413,7 @@
         },
         {
           "season": "3",
-          "episode": "3"
+          "episode": "5"
         },
         {
           "season": "3",
@@ -7421,15 +7421,15 @@
         },
         {
           "season": "3",
-          "episode": "5"
-        },
-        {
-          "season": "3",
-          "episode": "6"
+          "episode": "3"
         },
         {
           "season": "3",
           "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "6"
         },
         {
           "season": "3",
@@ -7756,6 +7756,57 @@
       ]
     },
     {
+      "name": "The Returned",
+      "id": "thereturned",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        }
+      ]
+    },
+    {
       "name": "The Originals",
       "id": "theoriginals",
       "enabled": "true",
@@ -7823,57 +7874,6 @@
         {
           "season": "4",
           "episode": "13"
-        }
-      ]
-    },
-    {
-      "name": "The Returned",
-      "id": "thereturned",
-      "enabled": "true",
-      "episodes": [
-        {
-          "season": "1",
-          "episode": "1"
-        },
-        {
-          "season": "1",
-          "episode": "2"
-        },
-        {
-          "season": "1",
-          "episode": "3"
-        },
-        {
-          "season": "1",
-          "episode": "4"
-        },
-        {
-          "season": "1",
-          "episode": "5"
-        },
-        {
-          "season": "1",
-          "episode": "6"
-        },
-        {
-          "season": "1",
-          "episode": "7"
-        },
-        {
-          "season": "1",
-          "episode": "8"
-        },
-        {
-          "season": "1",
-          "episode": "9"
-        },
-        {
-          "season": "1",
-          "episode": "10"
-        },
-        {
-          "season": "2",
-          "episode": "1"
         }
       ]
     },
@@ -8139,6 +8139,30 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "8"
+        },
+        {
+          "season": "11",
+          "episode": "10"
+        },
+        {
+          "season": "11",
+          "episode": "7"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "9"
+        },
+        {
           "season": "1",
           "episode": "*"
         },
@@ -8160,14 +8184,6 @@
         },
         {
           "season": "6",
-          "episode": "*"
-        },
-        {
-          "season": "7",
-          "episode": "*"
-        },
-        {
-          "season": "8",
           "episode": "*"
         },
         {
@@ -8201,22 +8217,6 @@
         {
           "season": "11",
           "episode": "6"
-        },
-        {
-          "season": "11",
-          "episode": "7"
-        },
-        {
-          "season": "11",
-          "episode": "8"
-        },
-        {
-          "season": "11",
-          "episode": "9"
-        },
-        {
-          "season": "11",
-          "episode": "10"
         }
       ]
     },
@@ -8225,6 +8225,22 @@
       "id": "timeless",
       "enabled": "true",
       "episodes": [
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
         {
           "season": "1",
           "episode": "1"
@@ -8259,14 +8275,6 @@
         },
         {
           "season": "1",
-          "episode": "9"
-        },
-        {
-          "season": "1",
-          "episode": "10"
-        },
-        {
-          "season": "1",
           "episode": "11"
         },
         {
@@ -8291,14 +8299,6 @@
         },
         {
           "season": "2",
-          "episode": "1"
-        },
-        {
-          "season": "2",
-          "episode": "2"
-        },
-        {
-          "season": "2",
           "episode": "3"
         }
       ]
@@ -8310,6 +8310,14 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -8319,14 +8327,6 @@
         {
           "season": "1",
           "episode": "3"
-        },
-        {
-          "season": "1",
-          "episode": "4"
-        },
-        {
-          "season": "1",
-          "episode": "5"
         },
         {
           "season": "1",
@@ -8369,6 +8369,30 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -8382,14 +8406,6 @@
         {
           "season": "1",
           "episode": "4"
-        },
-        {
-          "season": "1",
-          "episode": "5"
-        },
-        {
-          "season": "1",
-          "episode": "6"
         },
         {
           "season": "1",
@@ -8408,28 +8424,12 @@
           "episode": "10"
         },
         {
-          "season": "1",
-          "episode": "11"
-        },
-        {
-          "season": "1",
-          "episode": "12"
-        },
-        {
           "season": "2",
           "episode": "1"
         },
         {
           "season": "2",
           "episode": "2"
-        },
-        {
-          "season": "2",
-          "episode": "3"
-        },
-        {
-          "season": "2",
-          "episode": "4"
         },
         {
           "season": "2",
@@ -8495,6 +8495,14 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -8516,14 +8524,6 @@
         {
           "season": "1",
           "episode": "6"
-        },
-        {
-          "season": "1",
-          "episode": "7"
-        },
-        {
-          "season": "1",
-          "episode": "8"
         },
         {
           "season": "2",
@@ -8565,12 +8565,36 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
           "season": "1",
           "episode": "1"
         },
         {
           "season": "1",
-          "episode": "2"
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "5"
         },
         {
           "season": "1",
@@ -8587,14 +8611,6 @@
         {
           "season": "1",
           "episode": "6"
-        },
-        {
-          "season": "1",
-          "episode": "7"
-        },
-        {
-          "season": "1",
-          "episode": "8"
         },
         {
           "season": "1",
@@ -8627,22 +8643,6 @@
         {
           "season": "2",
           "episode": "3"
-        },
-        {
-          "season": "2",
-          "episode": "4"
-        },
-        {
-          "season": "2",
-          "episode": "5"
-        },
-        {
-          "season": "2",
-          "episode": "6"
-        },
-        {
-          "season": "2",
-          "episode": "7"
         },
         {
           "season": "2",
@@ -8676,11 +8676,7 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
-          "episode": "*"
-        },
-        {
-          "season": "2",
+          "season": "4",
           "episode": "*"
         },
         {
@@ -8688,7 +8684,11 @@
           "episode": "*"
         },
         {
-          "season": "4",
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
           "episode": "*"
         },
         {
@@ -8739,12 +8739,20 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "2",
+          "episode": "7"
+        },
+        {
           "season": "1",
           "episode": "*"
         },
         {
           "season": "2",
           "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "6"
         },
         {
           "season": "2",
@@ -8761,14 +8769,6 @@
         {
           "season": "2",
           "episode": "5"
-        },
-        {
-          "season": "2",
-          "episode": "6"
-        },
-        {
-          "season": "2",
-          "episode": "7"
         },
         {
           "season": "2",
@@ -8791,7 +8791,11 @@
       "episodes": [
         {
           "season": "1",
-          "episode": "1"
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "8"
         },
         {
           "season": "1",
@@ -8799,7 +8803,7 @@
         },
         {
           "season": "1",
-          "episode": "3"
+          "episode": "1"
         },
         {
           "season": "1",
@@ -8816,10 +8820,6 @@
         {
           "season": "1",
           "episode": "7"
-        },
-        {
-          "season": "1",
-          "episode": "8"
         }
       ]
     },
@@ -8829,7 +8829,35 @@
       "enabled": "true",
       "episodes": [
         {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
           "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "2",
           "episode": "*"
         },
         {
@@ -8875,14 +8903,6 @@
         {
           "season": "3",
           "episode": "11"
-        },
-        {
-          "season": "3",
-          "episode": "12"
-        },
-        {
-          "season": "3",
-          "episode": "13"
         },
         {
           "season": "3",
@@ -8902,14 +8922,6 @@
         },
         {
           "season": "4",
-          "episode": "4"
-        },
-        {
-          "season": "4",
-          "episode": "5"
-        },
-        {
-          "season": "4",
           "episode": "6"
         },
         {
@@ -8926,23 +8938,11 @@
         },
         {
           "season": "4",
-          "episode": "10"
-        },
-        {
-          "season": "4",
-          "episode": "11"
-        },
-        {
-          "season": "4",
           "episode": "12"
         },
         {
           "season": "4",
           "episode": "13"
-        },
-        {
-          "season": "2",
-          "episode": "*"
         }
       ]
     },
@@ -8952,20 +8952,20 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "1",
+          "season": "2",
           "episode": "1"
-        },
-        {
-          "season": "1",
-          "episode": "2"
         },
         {
           "season": "1",
           "episode": "3"
         },
         {
-          "season": "2",
+          "season": "1",
           "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
         },
         {
           "season": "2",
@@ -8996,6 +8996,14 @@
       "episodes": [
         {
           "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
           "episode": "1"
         },
         {
@@ -9013,14 +9021,6 @@
         {
           "season": "1",
           "episode": "5"
-        },
-        {
-          "season": "1",
-          "episode": "6"
-        },
-        {
-          "season": "1",
-          "episode": "7"
         },
         {
           "season": "1",
