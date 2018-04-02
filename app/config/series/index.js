@@ -1,6 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 const file = path.resolve(__dirname, 'series.json');
+const BreakException = {};
 
 const loadSeriesData = () => {
     const data = fs.readFileSync(file);
@@ -14,32 +15,41 @@ module.exports = {
         jsonData.series.forEach(function (s) {
             if (includeDisabled === "true" || s.enabled === "true") {
                 series.push({ name: s.name, id: s.id, enabled: s.enabled });
+                throw BreakException;
             }
         });
         return series;
     },
+
     updateSeries: (id, season, episode) => {
         const jsonData = loadSeriesData();
         let canAdd = true;
-        jsonData.series.forEach(function (s) {
-            if (s.id === id) {
-                s.episodes.forEach(function(e){
-                    if(e.season === season){
-                        if(e.episode === "*" || e.episode === episode){
-                            canAdd = false;
+        try {
+            jsonData.series.forEach(function (s) {
+                if (s.id === id) {
+                    s.episodes.forEach(function (e) {
+                        if (e.season === season) {
+                            if (e.episode === "*" || e.episode === episode) {
+                                canAdd = false;
+                                throw BreakException;
+                            }
                         }
+                    });
+                    if (canAdd) {
+                        s.episodes.push({ season: season, episode: episode });
                     }
-                });
-                if(canAdd){
-                    s.episodes.push({ season: season, episode: episode });
+                    throw BreakException;
                 }
-            }
-        });
+            });
+        } catch (e) {
+            if (e !== BreakException) throw e;
+        }
         if (canAdd) {
             fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
         }
         return canAdd;
     },
+
     episodes: (id) => {
         const jsonData = loadSeriesData();
         let output = [];
@@ -50,56 +60,75 @@ module.exports = {
         });
         return output;
     },
+
     complete: (id, season) => {
         const jsonData = loadSeriesData();
         const indexesToRemove = [];
         let counter = 0;
         let success = false;
-        jsonData.series.forEach(function (s) {
-            if (s.id === id) {
-                success = true;
-                s.episodes.forEach(function (e) {
-                    if (e.season === season) {
-                        indexesToRemove.push(counter);
+        try {
+            jsonData.series.forEach(function (s) {
+                if (s.id === id) {
+                    success = true;
+                    s.episodes.forEach(function (e) {
+                        if (e.season === season) {
+                            indexesToRemove.push(counter);
+                        }
+                        counter++;
+                    });
+                    for (var i = indexesToRemove.length - 1; i >= 0; i--) {
+                        s.episodes.splice(indexesToRemove[i], 1);
                     }
-                    counter++;
-                });
-                for (var i = indexesToRemove.length - 1; i >= 0; i--) {
-                    s.episodes.splice(indexesToRemove[i], 1);
+                    s.episodes.push({ season: season, episode: "*" });
+                    throw BreakException;
                 }
-            }
-            s.episodes.push({ season: season, episode: "*" });
-        });
+            });
+        } catch (e) {
+            if (e !== BreakException) throw e;
+        }
         if (success) {
             fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
         }
         return found;
     },
+
     addShow: (name, id) => {
+        let newShow = {};
         const jsonData = loadSeriesData();
         let success = true;
-        jsonData.series.forEach(function (s) {
-            if (s.id === id) {
-                console.log('show already exists: ', name);
-                success = false;
-            }
-        });
+        try {
+            jsonData.series.forEach(function (s) {
+                if (s.id === id) {
+                    success = false;
+                    throw BreakException;
+                }
+            });
+        } catch (e) {
+            if (e !== BreakException) throw e;
+        }
 
         if (success) {
-            jsonData.series.push({ name: name, id: id, enabled: "true", episodes: [] });
+            newShow = { name: name, id: id, enabled: "true", episodes: [] };
+            jsonData.series.push(newShow);
             fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
         }
-        return success;
+        return newShow;
     },
+
     enableShow: (id, enabled) => {
         const jsonData = loadSeriesData();
         let success = false;
-        jsonData.series.forEach(function (s) {
-            if (s.id === id) {
-                success = true;
-                s.enabled = enabled;
-            }
-        });
+        try {
+            jsonData.series.forEach(function (s) {
+                if (s.id === id) {
+                    success = true;
+                    s.enabled = enabled;
+                    throw BreakException;
+                }
+            });
+        } catch (e) {
+            if (e !== BreakException) throw e;
+        }
 
         if (success) {
             fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));

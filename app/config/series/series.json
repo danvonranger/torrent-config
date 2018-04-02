@@ -6,16 +6,9045 @@
       "enabled": "true",
       "episodes": [
         {
-          "season": "2",
-          "episode": "1"
+          "season": "1",
+          "episode": "*"
         },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "A Haunting",
+      "id": "ahaunting",
+      "enabled": "true",
+      "episodes": [
         {
           "season": "1",
           "episode": "*"
         },
         {
           "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "1"
+        },
+        {
+          "season": "9",
           "episode": "2"
+        },
+        {
+          "season": "9",
+          "episode": "3"
+        },
+        {
+          "season": "9",
+          "episode": "4"
+        },
+        {
+          "season": "9",
+          "episode": "5"
+        },
+        {
+          "season": "9",
+          "episode": "6"
+        },
+        {
+          "season": "9",
+          "episode": "7"
+        },
+        {
+          "season": "9",
+          "episode": "8"
+        },
+        {
+          "season": "9",
+          "episode": "9"
+        },
+        {
+          "season": "9",
+          "episode": "10"
+        },
+        {
+          "season": "9",
+          "episode": "11"
+        },
+        {
+          "season": "9",
+          "episode": "12"
+        },
+        {
+          "season": "10",
+          "episode": "3"
+        }
+      ]
+    },
+    {
+      "name": "Aftermath",
+      "id": "aftermath",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Agent X",
+      "id": "agentx",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "American Pickers",
+      "id": "americanpickers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        },
+        {
+          "season": "10",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "*"
+        },
+        {
+          "season": "12",
+          "episode": "*"
+        },
+        {
+          "season": "13",
+          "episode": "*"
+        },
+        {
+          "season": "14",
+          "episode": "*"
+        },
+        {
+          "season": "15",
+          "episode": "*"
+        },
+        {
+          "season": "16",
+          "episode": "*"
+        },
+        {
+          "season": "17",
+          "episode": "*"
+        },
+        {
+          "season": "18",
+          "episode": "1"
+        },
+        {
+          "season": "18",
+          "episode": "2"
+        },
+        {
+          "season": "18",
+          "episode": "3"
+        },
+        {
+          "season": "18",
+          "episode": "4"
+        },
+        {
+          "season": "18",
+          "episode": "5"
+        },
+        {
+          "season": "18",
+          "episode": "6"
+        },
+        {
+          "season": "18",
+          "episode": "7"
+        },
+        {
+          "season": "18",
+          "episode": "8"
+        },
+        {
+          "season": "18",
+          "episode": "9"
+        },
+        {
+          "season": "18",
+          "episode": "10"
+        },
+        {
+          "season": "18",
+          "episode": "11"
+        },
+        {
+          "season": "18",
+          "episode": "12"
+        },
+        {
+          "season": "18",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Ancient Aliens",
+      "id": "ancientaliens",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "*"
+        },
+        {
+          "season": "12",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Atlantis 2013",
+      "id": "atlantis2013",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "Ax Men",
+      "id": "axmen",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Backstrom",
+      "id": "backstrom",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Bates Motel",
+      "id": "batesmotel",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Better Call Saul",
+      "id": "bettercallsaul",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Between",
+      "id": "between",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Black Sails",
+      "id": "blacksails",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Blindspot",
+      "id": "blindspot",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        },
+        {
+          "season": "2",
+          "episode": "14"
+        },
+        {
+          "season": "2",
+          "episode": "15"
+        },
+        {
+          "season": "2",
+          "episode": "16"
+        },
+        {
+          "season": "2",
+          "episode": "17"
+        },
+        {
+          "season": "2",
+          "episode": "18"
+        },
+        {
+          "season": "2",
+          "episode": "19"
+        },
+        {
+          "season": "2",
+          "episode": "20"
+        },
+        {
+          "season": "2",
+          "episode": "21"
+        },
+        {
+          "season": "2",
+          "episode": "22"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "3",
+          "episode": "17"
+        }
+      ]
+    },
+    {
+      "name": "Chance",
+      "id": "chance",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Cleverman",
+      "id": "cleverman",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Constantine",
+      "id": "constantine",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Containment",
+      "id": "containment",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Countdown to Murder",
+      "id": "countdowntomurder",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        }
+      ]
+    },
+    {
+      "name": "Crossbones",
+      "id": "crossbones",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        }
+      ]
+    },
+    {
+      "name": "Da Vincis Demons",
+      "id": "davincisdemons",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Damien",
+      "id": "damien",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Dark Matter",
+      "id": "darkmatter",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Dark Matters Twisted But True",
+      "id": "darkmatterstwistedbuttrue",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Defiance",
+      "id": "defiance",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Dickensian",
+      "id": "dickensian",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Dimension 404",
+      "id": "dimension404",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Dominion",
+      "id": "dominion",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Elementary",
+      "id": "elementary",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        },
+        {
+          "season": "5",
+          "episode": "11"
+        },
+        {
+          "season": "5",
+          "episode": "12"
+        },
+        {
+          "season": "5",
+          "episode": "13"
+        },
+        {
+          "season": "5",
+          "episode": "14"
+        },
+        {
+          "season": "5",
+          "episode": "15"
+        },
+        {
+          "season": "5",
+          "episode": "16"
+        },
+        {
+          "season": "5",
+          "episode": "17"
+        },
+        {
+          "season": "5",
+          "episode": "18"
+        },
+        {
+          "season": "5",
+          "episode": "19"
+        },
+        {
+          "season": "5",
+          "episode": "20"
+        },
+        {
+          "season": "5",
+          "episode": "21"
+        },
+        {
+          "season": "5",
+          "episode": "22"
+        },
+        {
+          "season": "5",
+          "episode": "23"
+        },
+        {
+          "season": "5",
+          "episode": "24"
+        }
+      ]
+    },
+    {
+      "name": "Evil Things",
+      "id": "evilthings",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        }
+      ]
+    },
+    {
+      "name": "Expedition Unknown",
+      "id": "expeditionunknown",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Expedition Unknown Hunt for Extraterrestrials",
+      "id": "expeditionunknownhuntforextraterrestrials",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        }
+      ]
+    },
+    {
+      "name": "Extant",
+      "id": "extant",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "Extinct US",
+      "id": "extinctus",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Falling Skies",
+      "id": "fallingskies",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Falling Waters",
+      "id": "fallingwaters",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Fear The Walking Dead",
+      "id": "fearthewalkingdead",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        },
+        {
+          "season": "2",
+          "episode": "14"
+        },
+        {
+          "season": "2",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        }
+      ]
+    },
+    {
+      "name": "Forever US",
+      "id": "foreverus",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "1",
+          "episode": "15"
+        },
+        {
+          "season": "1",
+          "episode": "16"
+        },
+        {
+          "season": "1",
+          "episode": "17"
+        },
+        {
+          "season": "1",
+          "episode": "18"
+        },
+        {
+          "season": "1",
+          "episode": "19"
+        },
+        {
+          "season": "1",
+          "episode": "20"
+        },
+        {
+          "season": "1",
+          "episode": "21"
+        },
+        {
+          "season": "1",
+          "episode": "22"
+        }
+      ]
+    },
+    {
+      "name": "Game of Thrones",
+      "id": "gameofthrones",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "1"
+        },
+        {
+          "season": "6",
+          "episode": "2"
+        },
+        {
+          "season": "6",
+          "episode": "3"
+        },
+        {
+          "season": "6",
+          "episode": "4"
+        },
+        {
+          "season": "6",
+          "episode": "5"
+        },
+        {
+          "season": "6",
+          "episode": "6"
+        },
+        {
+          "season": "6",
+          "episode": "7"
+        },
+        {
+          "season": "6",
+          "episode": "8"
+        },
+        {
+          "season": "6",
+          "episode": "9"
+        },
+        {
+          "season": "6",
+          "episode": "10"
+        },
+        {
+          "season": "7",
+          "episode": "1"
+        },
+        {
+          "season": "7",
+          "episode": "2"
+        },
+        {
+          "season": "7",
+          "episode": "3"
+        },
+        {
+          "season": "7",
+          "episode": "4"
+        },
+        {
+          "season": "7",
+          "episode": "5"
+        },
+        {
+          "season": "7",
+          "episode": "6"
+        },
+        {
+          "season": "7",
+          "episode": "7"
+        }
+      ]
+    },
+    {
+      "name": "Glitch",
+      "id": "glitch",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Gold Rush",
+      "id": "goldrush",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "1"
+        },
+        {
+          "season": "8",
+          "episode": "2"
+        },
+        {
+          "season": "8",
+          "episode": "3"
+        },
+        {
+          "season": "8",
+          "episode": "4"
+        },
+        {
+          "season": "8",
+          "episode": "5"
+        },
+        {
+          "season": "8",
+          "episode": "6"
+        },
+        {
+          "season": "8",
+          "episode": "7"
+        },
+        {
+          "season": "8",
+          "episode": "8"
+        },
+        {
+          "season": "8",
+          "episode": "9"
+        },
+        {
+          "season": "8",
+          "episode": "10"
+        },
+        {
+          "season": "8",
+          "episode": "11"
+        },
+        {
+          "season": "8",
+          "episode": "12"
+        },
+        {
+          "season": "8",
+          "episode": "13"
+        },
+        {
+          "season": "8",
+          "episode": "14"
+        },
+        {
+          "season": "8",
+          "episode": "15"
+        },
+        {
+          "season": "8",
+          "episode": "16"
+        },
+        {
+          "season": "8",
+          "episode": "17"
+        },
+        {
+          "season": "8",
+          "episode": "18"
+        },
+        {
+          "season": "8",
+          "episode": "19"
+        },
+        {
+          "season": "8",
+          "episode": "20"
+        },
+        {
+          "season": "8",
+          "episode": "21"
+        },
+        {
+          "season": "8",
+          "episode": "22"
+        }
+      ]
+    },
+    {
+      "name": "Gravity Falls",
+      "id": "gravityfalls",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        },
+        {
+          "season": "2",
+          "episode": "14"
+        },
+        {
+          "season": "2",
+          "episode": "15"
+        },
+        {
+          "season": "2",
+          "episode": "16"
+        },
+        {
+          "season": "2",
+          "episode": "17"
+        },
+        {
+          "season": "2",
+          "episode": "18"
+        },
+        {
+          "season": "2",
+          "episode": "19"
+        },
+        {
+          "season": "2",
+          "episode": "20"
+        }
+      ]
+    },
+    {
+      "name": "Grimm",
+      "id": "grimm",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "1"
+        },
+        {
+          "season": "6",
+          "episode": "2"
+        },
+        {
+          "season": "6",
+          "episode": "3"
+        },
+        {
+          "season": "6",
+          "episode": "4"
+        },
+        {
+          "season": "6",
+          "episode": "5"
+        },
+        {
+          "season": "6",
+          "episode": "6"
+        },
+        {
+          "season": "6",
+          "episode": "7"
+        },
+        {
+          "season": "6",
+          "episode": "8"
+        },
+        {
+          "season": "6",
+          "episode": "9"
+        },
+        {
+          "season": "6",
+          "episode": "10"
+        },
+        {
+          "season": "6",
+          "episode": "11"
+        },
+        {
+          "season": "6",
+          "episode": "12"
+        },
+        {
+          "season": "6",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Hannibal",
+      "id": "hannibal",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Haunted History",
+      "id": "hauntedhistory",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Heroes Reborn",
+      "id": "heroesreborn",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Hunting Hitler",
+      "id": "huntinghitler",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "Ice Road Truckers",
+      "id": "iceroadtruckers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        },
+        {
+          "season": "10",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "2"
+        },
+        {
+          "season": "11",
+          "episode": "1"
+        },
+        {
+          "season": "11",
+          "episode": "3"
+        },
+        {
+          "season": "11",
+          "episode": "4"
+        },
+        {
+          "season": "11",
+          "episode": "5"
+        },
+        {
+          "season": "11",
+          "episode": "6"
+        },
+        {
+          "season": "11",
+          "episode": "7"
+        },
+        {
+          "season": "11",
+          "episode": "8"
+        },
+        {
+          "season": "11",
+          "episode": "9"
+        },
+        {
+          "season": "11",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Incorporated",
+      "id": "incorporated",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Jekyll and Hyde",
+      "id": "jekyllandhyde",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Jonathan Strange and Mr Norrell",
+      "id": "jonathanstrangeandmrnorrell",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        }
+      ]
+    },
+    {
+      "name": "Killjoys",
+      "id": "killjoys",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Krypton",
+      "id": "krypton",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        }
+      ]
+    },
+    {
+      "name": "Limitless",
+      "id": "limitless",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "1",
+          "episode": "15"
+        },
+        {
+          "season": "1",
+          "episode": "16"
+        },
+        {
+          "season": "1",
+          "episode": "17"
+        },
+        {
+          "season": "1",
+          "episode": "18"
+        },
+        {
+          "season": "1",
+          "episode": "19"
+        },
+        {
+          "season": "1",
+          "episode": "20"
+        },
+        {
+          "season": "1",
+          "episode": "21"
+        },
+        {
+          "season": "1",
+          "episode": "22"
+        }
+      ]
+    },
+    {
+      "name": "Mars",
+      "id": "mars",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Marvels The Punisher",
+      "id": "marvelsthepunisher",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Minority Report",
+      "id": "minorityreport",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Moonshiners",
+      "id": "moonshiners",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "1"
+        },
+        {
+          "season": "7",
+          "episode": "2"
+        },
+        {
+          "season": "7",
+          "episode": "3"
+        },
+        {
+          "season": "7",
+          "episode": "4"
+        },
+        {
+          "season": "7",
+          "episode": "5"
+        },
+        {
+          "season": "7",
+          "episode": "6"
+        },
+        {
+          "season": "7",
+          "episode": "7"
+        },
+        {
+          "season": "7",
+          "episode": "8"
+        },
+        {
+          "season": "7",
+          "episode": "9"
+        },
+        {
+          "season": "7",
+          "episode": "10"
+        },
+        {
+          "season": "7",
+          "episode": "11"
+        },
+        {
+          "season": "7",
+          "episode": "12"
+        },
+        {
+          "season": "7",
+          "episode": "13"
+        },
+        {
+          "season": "7",
+          "episode": "14"
+        },
+        {
+          "season": "7",
+          "episode": "15"
+        },
+        {
+          "season": "7",
+          "episode": "16"
+        },
+        {
+          "season": "7",
+          "episode": "17"
+        },
+        {
+          "season": "7",
+          "episode": "18"
+        }
+      ]
+    },
+    {
+      "name": "Mr Robot",
+      "id": "mrrobot",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Murder Maps",
+      "id": "murdermaps",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        }
+      ]
+    },
+    {
+      "name": "My Ghost Story",
+      "id": "myghoststory",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "1"
+        },
+        {
+          "season": "6",
+          "episode": "2"
+        },
+        {
+          "season": "6",
+          "episode": "3"
+        },
+        {
+          "season": "6",
+          "episode": "4"
+        },
+        {
+          "season": "6",
+          "episode": "5"
+        },
+        {
+          "season": "6",
+          "episode": "6"
+        },
+        {
+          "season": "6",
+          "episode": "7"
+        },
+        {
+          "season": "6",
+          "episode": "8"
+        },
+        {
+          "season": "6",
+          "episode": "9"
+        },
+        {
+          "season": "6",
+          "episode": "11"
+        },
+        {
+          "season": "6",
+          "episode": "12"
+        },
+        {
+          "season": "6",
+          "episode": "13"
+        },
+        {
+          "season": "6",
+          "episode": "14"
+        },
+        {
+          "season": "6",
+          "episode": "15"
+        },
+        {
+          "season": "6",
+          "episode": "16"
+        },
+        {
+          "season": "6",
+          "episode": "17"
+        },
+        {
+          "season": "6",
+          "episode": "18"
+        },
+        {
+          "season": "6",
+          "episode": "19"
+        },
+        {
+          "season": "6",
+          "episode": "20"
+        },
+        {
+          "season": "6",
+          "episode": "21"
+        }
+      ]
+    },
+    {
+      "name": "My Haunted House",
+      "id": "myhauntedhouse",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "23"
+        },
+        {
+          "season": "1",
+          "episode": "28"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        }
+      ]
+    },
+    {
+      "name": "Olympus",
+      "id": "olympus",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Outcast",
+      "id": "outcast",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Outlander",
+      "id": "outlander",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        }
+      ]
+    },
+    {
+      "name": "Paranormal Survivor",
+      "id": "paranormalsurvivor",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Paranormal Witness",
+      "id": "paranormalwitness",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "3",
+          "episode": "17"
+        },
+        {
+          "season": "3",
+          "episode": "18"
+        },
+        {
+          "season": "3",
+          "episode": "19"
+        },
+        {
+          "season": "3",
+          "episode": "20"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        },
+        {
+          "season": "5",
+          "episode": "11"
+        },
+        {
+          "season": "5",
+          "episode": "12"
+        },
+        {
+          "season": "5",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Peaky Blinders",
+      "id": "peakyblinders",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Penny Dreadful",
+      "id": "pennydreadful",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        }
+      ]
+    },
+    {
+      "name": "People of Earth",
+      "id": "peopleofearth",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Preacher",
+      "id": "preacher",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Proof",
+      "id": "proof",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Quacks",
+      "id": "quacks",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Ransom",
+      "id": "ransom",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Rectify",
+      "id": "rectify",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "Red Dwarf",
+      "id": "reddwarf",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        },
+        {
+          "season": "10",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "*"
+        },
+        {
+          "season": "12",
+          "episode": "1"
+        },
+        {
+          "season": "12",
+          "episode": "2"
+        },
+        {
+          "season": "12",
+          "episode": "3"
+        },
+        {
+          "season": "12",
+          "episode": "4"
+        },
+        {
+          "season": "12",
+          "episode": "5"
+        },
+        {
+          "season": "12",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Rick and Morty",
+      "id": "rickandmorty",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "7",
+          "episode": "1"
+        }
+      ]
+    },
+    {
+      "name": "Ripper Street",
+      "id": "ripperstreet",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Robotech",
+      "id": "robotech",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "3",
+          "episode": "17"
+        },
+        {
+          "season": "3",
+          "episode": "18"
+        },
+        {
+          "season": "3",
+          "episode": "19"
+        },
+        {
+          "season": "3",
+          "episode": "20"
+        },
+        {
+          "season": "3",
+          "episode": "21"
+        },
+        {
+          "season": "3",
+          "episode": "22"
+        },
+        {
+          "season": "3",
+          "episode": "23"
+        },
+        {
+          "season": "3",
+          "episode": "24"
+        },
+        {
+          "season": "3",
+          "episode": "25"
+        }
+      ]
+    },
+    {
+      "name": "Rogue",
+      "id": "rogue",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        }
+      ]
+    },
+    {
+      "name": "Salem",
+      "id": "salem",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "SEAL Team",
+      "id": "sealteam",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "1",
+          "episode": "15"
+        },
+        {
+          "season": "1",
+          "episode": "16"
+        },
+        {
+          "season": "1",
+          "episode": "17"
+        }
+      ]
+    },
+    {
+      "name": "Second Chance",
+      "id": "secondchance",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        }
+      ]
+    },
+    {
+      "name": "Sense8",
+      "id": "sense8",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Sleepy Hollow",
+      "id": "sleepyhollow",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Star Trek Discovery",
+      "id": "startrekdiscovery",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "1",
+          "episode": "15"
+        }
+      ]
+    },
+    {
+      "name": "Star Wars Rebels",
+      "id": "starwarsrebels",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "3",
+          "episode": "15"
+        },
+        {
+          "season": "3",
+          "episode": "16"
+        },
+        {
+          "season": "3",
+          "episode": "17"
+        },
+        {
+          "season": "3",
+          "episode": "18"
+        },
+        {
+          "season": "3",
+          "episode": "19"
+        },
+        {
+          "season": "3",
+          "episode": "20"
+        },
+        {
+          "season": "3",
+          "episode": "21"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "14"
+        },
+        {
+          "season": "4",
+          "episode": "15"
+        }
+      ]
+    },
+    {
+      "name": "Stitchers",
+      "id": "stitchers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Stranger Things",
+      "id": "strangerthings",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        }
+      ]
+    },
+    {
+      "name": "SWAT",
+      "id": "swat",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        }
+      ]
+    },
+    {
+      "name": "Taboo",
+      "id": "taboo",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Taken",
+      "id": "taken",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        }
+      ]
+    },
+    {
+      "name": "Terror in the woods",
+      "id": "terrorinthewoods",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "The 100",
+      "id": "the100",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The Bastard Executioner",
+      "id": "thebastardexecutioner",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "The Blacklist",
+      "id": "theblacklist",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "14"
+        },
+        {
+          "season": "4",
+          "episode": "15"
+        },
+        {
+          "season": "4",
+          "episode": "16"
+        },
+        {
+          "season": "4",
+          "episode": "17"
+        },
+        {
+          "season": "4",
+          "episode": "18"
+        },
+        {
+          "season": "4",
+          "episode": "19"
+        },
+        {
+          "season": "4",
+          "episode": "20"
+        },
+        {
+          "season": "4",
+          "episode": "21"
+        },
+        {
+          "season": "4",
+          "episode": "22"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        },
+        {
+          "season": "5",
+          "episode": "11"
+        },
+        {
+          "season": "5",
+          "episode": "12"
+        },
+        {
+          "season": "5",
+          "episode": "13"
+        },
+        {
+          "season": "5",
+          "episode": "14"
+        },
+        {
+          "season": "5",
+          "episode": "15"
+        },
+        {
+          "season": "5",
+          "episode": "16"
+        }
+      ]
+    },
+    {
+      "name": "The Clone Wars",
+      "id": "theclonewars",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "1"
+        },
+        {
+          "season": "6",
+          "episode": "2"
+        },
+        {
+          "season": "6",
+          "episode": "3"
+        },
+        {
+          "season": "6",
+          "episode": "4"
+        },
+        {
+          "season": "6",
+          "episode": "5"
+        },
+        {
+          "season": "6",
+          "episode": "6"
+        },
+        {
+          "season": "6",
+          "episode": "7"
+        },
+        {
+          "season": "6",
+          "episode": "8"
+        },
+        {
+          "season": "6",
+          "episode": "9"
+        },
+        {
+          "season": "6",
+          "episode": "10"
+        },
+        {
+          "season": "6",
+          "episode": "11"
+        },
+        {
+          "season": "6",
+          "episode": "12"
+        },
+        {
+          "season": "6",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The Curse of Civil War Gold",
+      "id": "thecurseofcivilwargold",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        }
+      ]
+    },
+    {
+      "name": "The Curse of Oak Island",
+      "id": "thecurseofoakisland",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "14"
+        },
+        {
+          "season": "4",
+          "episode": "15"
+        },
+        {
+          "season": "4",
+          "episode": "16"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        },
+        {
+          "season": "5",
+          "episode": "11"
+        },
+        {
+          "season": "5",
+          "episode": "12"
+        },
+        {
+          "season": "5",
+          "episode": "13"
+        },
+        {
+          "season": "5",
+          "episode": "14"
+        },
+        {
+          "season": "5",
+          "episode": "15"
+        },
+        {
+          "season": "5",
+          "episode": "16"
+        },
+        {
+          "season": "5",
+          "episode": "17"
+        },
+        {
+          "season": "5",
+          "episode": "18"
+        }
+      ]
+    },
+    {
+      "name": "The Dead Files",
+      "id": "thedeadfiles",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        },
+        {
+          "season": "10",
+          "episode": "1"
+        },
+        {
+          "season": "10",
+          "episode": "2"
+        },
+        {
+          "season": "10",
+          "episode": "3"
+        },
+        {
+          "season": "10",
+          "episode": "4"
+        },
+        {
+          "season": "10",
+          "episode": "5"
+        },
+        {
+          "season": "10",
+          "episode": "6"
+        },
+        {
+          "season": "10",
+          "episode": "7"
+        },
+        {
+          "season": "10",
+          "episode": "8"
+        },
+        {
+          "season": "10",
+          "episode": "9"
+        },
+        {
+          "season": "10",
+          "episode": "10"
+        },
+        {
+          "season": "10",
+          "episode": "11"
+        },
+        {
+          "season": "10",
+          "episode": "12"
+        },
+        {
+          "season": "10",
+          "episode": "13"
+        },
+        {
+          "season": "11",
+          "episode": "1"
+        },
+        {
+          "season": "11",
+          "episode": "2"
+        },
+        {
+          "season": "11",
+          "episode": "3"
+        },
+        {
+          "season": "11",
+          "episode": "4"
+        },
+        {
+          "season": "11",
+          "episode": "5"
+        },
+        {
+          "season": "11",
+          "episode": "6"
+        },
+        {
+          "season": "11",
+          "episode": "7"
+        }
+      ]
+    },
+    {
+      "name": "The Expanse",
+      "id": "theexpanse",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The Ghost in my Child",
+      "id": "theghostinmychild",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "The Gifted",
+      "id": "thegifted",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "The Last Days of",
+      "id": "thelastdaysof",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "The Last Kingdom",
+      "id": "thelastkingdom",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "The Last Ship",
+      "id": "thelastship",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "The Leftovers",
+      "id": "theleftovers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "The Magicians US",
+      "id": "themagiciansus",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "The Messengers",
+      "id": "themessengers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The Mist",
+      "id": "themist",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "The Musketeers",
+      "id": "themusketeers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "The OA",
+      "id": "theoa",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "The Orville",
+      "id": "theorville",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "The Originals",
+      "id": "theoriginals",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The Returned",
+      "id": "thereturned",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        }
+      ]
+    },
+    {
+      "name": "The Strain",
+      "id": "thestrain",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "The Suspicions Of Mr Whicher",
+      "id": "thesuspicionsofmrwhicher",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        }
+      ]
+    },
+    {
+      "name": "The Walking Dead",
+      "id": "thewalkingdead",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "1"
+        },
+        {
+          "season": "7",
+          "episode": "2"
+        },
+        {
+          "season": "7",
+          "episode": "3"
+        },
+        {
+          "season": "7",
+          "episode": "4"
+        },
+        {
+          "season": "7",
+          "episode": "5"
+        },
+        {
+          "season": "7",
+          "episode": "6"
+        },
+        {
+          "season": "7",
+          "episode": "7"
+        },
+        {
+          "season": "7",
+          "episode": "8"
+        },
+        {
+          "season": "7",
+          "episode": "9"
+        },
+        {
+          "season": "7",
+          "episode": "10"
+        },
+        {
+          "season": "7",
+          "episode": "11"
+        },
+        {
+          "season": "7",
+          "episode": "12"
+        },
+        {
+          "season": "7",
+          "episode": "13"
+        },
+        {
+          "season": "7",
+          "episode": "14"
+        },
+        {
+          "season": "7",
+          "episode": "15"
+        },
+        {
+          "season": "7",
+          "episode": "16"
+        },
+        {
+          "season": "8",
+          "episode": "1"
+        },
+        {
+          "season": "8",
+          "episode": "2"
+        },
+        {
+          "season": "8",
+          "episode": "3"
+        },
+        {
+          "season": "8",
+          "episode": "4"
+        },
+        {
+          "season": "8",
+          "episode": "5"
+        },
+        {
+          "season": "8",
+          "episode": "6"
+        },
+        {
+          "season": "8",
+          "episode": "7"
+        },
+        {
+          "season": "8",
+          "episode": "8"
+        },
+        {
+          "season": "8",
+          "episode": "9"
+        },
+        {
+          "season": "8",
+          "episode": "10"
+        },
+        {
+          "season": "8",
+          "episode": "11"
+        },
+        {
+          "season": "8",
+          "episode": "12"
+        },
+        {
+          "season": "8",
+          "episode": "13"
+        },
+        {
+          "season": "8",
+          "episode": "14"
+        }
+      ]
+    },
+    {
+      "name": "The Whispers",
+      "id": "thewhispers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "The X Files",
+      "id": "thexfiles",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "*"
+        },
+        {
+          "season": "6",
+          "episode": "*"
+        },
+        {
+          "season": "7",
+          "episode": "*"
+        },
+        {
+          "season": "8",
+          "episode": "*"
+        },
+        {
+          "season": "9",
+          "episode": "*"
+        },
+        {
+          "season": "10",
+          "episode": "*"
+        },
+        {
+          "season": "11",
+          "episode": "1"
+        },
+        {
+          "season": "11",
+          "episode": "2"
+        },
+        {
+          "season": "11",
+          "episode": "3"
+        },
+        {
+          "season": "11",
+          "episode": "4"
+        },
+        {
+          "season": "11",
+          "episode": "5"
+        },
+        {
+          "season": "11",
+          "episode": "6"
+        },
+        {
+          "season": "11",
+          "episode": "7"
+        },
+        {
+          "season": "11",
+          "episode": "8"
+        },
+        {
+          "season": "11",
+          "episode": "9"
+        },
+        {
+          "season": "11",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Timeless",
+      "id": "timeless",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "1",
+          "episode": "14"
+        },
+        {
+          "season": "1",
+          "episode": "15"
+        },
+        {
+          "season": "1",
+          "episode": "16"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        }
+      ]
+    },
+    {
+      "name": "Training Day",
+      "id": "trainingday",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Travelers",
+      "id": "travelers",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        }
+      ]
+    },
+    {
+      "name": "Tripped",
+      "id": "tripped",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        }
+      ]
+    },
+    {
+      "name": "True Detective",
+      "id": "truedetective",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "Van Helsing",
+      "id": "vanhelsing",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        },
+        {
+          "season": "2",
+          "episode": "11"
+        },
+        {
+          "season": "2",
+          "episode": "12"
+        },
+        {
+          "season": "2",
+          "episode": "13"
+        }
+      ]
+    },
+    {
+      "name": "Vikings",
+      "id": "vikings",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "*"
+        },
+        {
+          "season": "4",
+          "episode": "*"
+        },
+        {
+          "season": "5",
+          "episode": "1"
+        },
+        {
+          "season": "5",
+          "episode": "2"
+        },
+        {
+          "season": "5",
+          "episode": "3"
+        },
+        {
+          "season": "5",
+          "episode": "4"
+        },
+        {
+          "season": "5",
+          "episode": "5"
+        },
+        {
+          "season": "5",
+          "episode": "6"
+        },
+        {
+          "season": "5",
+          "episode": "7"
+        },
+        {
+          "season": "5",
+          "episode": "8"
+        },
+        {
+          "season": "5",
+          "episode": "9"
+        },
+        {
+          "season": "5",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "Wayward Pines",
+      "id": "waywardpines",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        },
+        {
+          "season": "2",
+          "episode": "7"
+        },
+        {
+          "season": "2",
+          "episode": "8"
+        },
+        {
+          "season": "2",
+          "episode": "9"
+        },
+        {
+          "season": "2",
+          "episode": "10"
+        }
+      ]
+    },
+    {
+      "name": "When Ghosts Attack",
+      "id": "whenghostsattack",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        }
+      ]
+    },
+    {
+      "name": "Z Nation",
+      "id": "znation",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "*"
+        },
+        {
+          "season": "3",
+          "episode": "1"
+        },
+        {
+          "season": "3",
+          "episode": "2"
+        },
+        {
+          "season": "3",
+          "episode": "3"
+        },
+        {
+          "season": "3",
+          "episode": "4"
+        },
+        {
+          "season": "3",
+          "episode": "5"
+        },
+        {
+          "season": "3",
+          "episode": "6"
+        },
+        {
+          "season": "3",
+          "episode": "7"
+        },
+        {
+          "season": "3",
+          "episode": "8"
+        },
+        {
+          "season": "3",
+          "episode": "9"
+        },
+        {
+          "season": "3",
+          "episode": "10"
+        },
+        {
+          "season": "3",
+          "episode": "11"
+        },
+        {
+          "season": "3",
+          "episode": "12"
+        },
+        {
+          "season": "3",
+          "episode": "13"
+        },
+        {
+          "season": "3",
+          "episode": "14"
+        },
+        {
+          "season": "4",
+          "episode": "1"
+        },
+        {
+          "season": "4",
+          "episode": "2"
+        },
+        {
+          "season": "4",
+          "episode": "3"
+        },
+        {
+          "season": "4",
+          "episode": "4"
+        },
+        {
+          "season": "4",
+          "episode": "5"
+        },
+        {
+          "season": "4",
+          "episode": "6"
+        },
+        {
+          "season": "4",
+          "episode": "7"
+        },
+        {
+          "season": "4",
+          "episode": "8"
+        },
+        {
+          "season": "4",
+          "episode": "9"
+        },
+        {
+          "season": "4",
+          "episode": "10"
+        },
+        {
+          "season": "4",
+          "episode": "11"
+        },
+        {
+          "season": "4",
+          "episode": "12"
+        },
+        {
+          "season": "4",
+          "episode": "13"
+        },
+        {
+          "season": "2",
+          "episode": "*"
+        }
+      ]
+    },
+    {
+      "name": "Zapped",
+      "id": "zapped",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "1"
+        },
+        {
+          "season": "2",
+          "episode": "2"
+        },
+        {
+          "season": "2",
+          "episode": "3"
+        },
+        {
+          "season": "2",
+          "episode": "4"
+        },
+        {
+          "season": "2",
+          "episode": "5"
+        },
+        {
+          "season": "2",
+          "episode": "6"
+        }
+      ]
+    },
+    {
+      "name": "Zero Hour",
+      "id": "zerohour",
+      "enabled": "true",
+      "episodes": [
+        {
+          "season": "1",
+          "episode": "1"
+        },
+        {
+          "season": "1",
+          "episode": "2"
+        },
+        {
+          "season": "1",
+          "episode": "3"
+        },
+        {
+          "season": "1",
+          "episode": "4"
+        },
+        {
+          "season": "1",
+          "episode": "5"
+        },
+        {
+          "season": "1",
+          "episode": "6"
+        },
+        {
+          "season": "1",
+          "episode": "7"
+        },
+        {
+          "season": "1",
+          "episode": "8"
+        },
+        {
+          "season": "1",
+          "episode": "9"
+        },
+        {
+          "season": "1",
+          "episode": "10"
+        },
+        {
+          "season": "1",
+          "episode": "11"
+        },
+        {
+          "season": "1",
+          "episode": "12"
+        },
+        {
+          "season": "1",
+          "episode": "13"
         }
       ]
     }

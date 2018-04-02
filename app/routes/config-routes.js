@@ -6,14 +6,13 @@ module.exports = function(app, db) {
         // returns details on all currnt tv shows, names and ids
         const includeDisabled = req.query.includeDisabled || false;
         const series = configData.allSeries(includeDisabled);
-        console.log('passing back series', series);
         res.json(series);
     });
 
-    app.get('/api/episodes/:id', (req, res) => {
+    app.get('/api/seasons/:id', (req, res) => {
         // returns details on stored episodes for the give series id
-        const episodes = configData.episodes(req.params.id);
-        res.json(episodes);
+        const seasons = configData.episodes(req.params.id);
+        res.json(seasons);
     });
 
     app.post('/api/update', (req, res) => {
@@ -35,14 +34,11 @@ module.exports = function(app, db) {
 
     app.post('/api/add', (req, res) => {
         // adds a new show with zero episodes
-        console.log('ADD HAS BEEN CALLED');
-        console.log('BODY',req.body);
         const name = req.body.name;
-        console.log('NAME', name);
         let id = name.toLowerCase();
         id = id.replace(/\s/g, '');
-        const success = configData.addShow(name, id);
-        res.sendStatus(success ? 200 : 400);
+        const item = configData.addShow(name, id);
+        res.json(item);
     });
 
     app.post('/api/enable', (req, res) => {
