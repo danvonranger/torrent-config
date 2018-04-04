@@ -3,9 +3,20 @@ const fs = require('fs');
 const file = path.resolve(__dirname, 'series.json');
 const BreakException = {};
 
+// let data = null;
+
 const loadSeriesData = () => {
+    // if (!data) {
+    //     console.log('LOADING DATA...');
+    //     data = fs.readFileSync(file);
+    //     return JSON.parse(data);
+    // }
     const data = fs.readFileSync(file);
     return JSON.parse(data);
+}
+
+const persistData = (jsonData) => {
+    fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
 }
 
 module.exports = {
@@ -15,7 +26,6 @@ module.exports = {
         jsonData.series.forEach(function (s) {
             if (includeDisabled === "true" || s.enabled === "true") {
                 series.push({ name: s.name, id: s.id, enabled: s.enabled });
-                throw BreakException;
             }
         });
         return series;
@@ -44,8 +54,8 @@ module.exports = {
         } catch (e) {
             if (e !== BreakException) throw e;
         }
-        if (canAdd) {
-            fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
+        if (canAdd) {            
+            persistData(jsonData);
         }
         return canAdd;
     },
@@ -86,8 +96,8 @@ module.exports = {
         } catch (e) {
             if (e !== BreakException) throw e;
         }
-        if (success) {
-            fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
+        if (success) {            
+            persistData(jsonData);
         }
         return found;
     },
@@ -109,8 +119,8 @@ module.exports = {
 
         if (success) {
             newShow = { name: name, id: id, enabled: "true", episodes: [] };
-            jsonData.series.push(newShow);
-            fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
+            jsonData.series.push(newShow);            
+            persistData(jsonData);
         }
         return newShow;
     },
@@ -131,7 +141,7 @@ module.exports = {
         }
 
         if (success) {
-            fs.writeFileSync(file, JSON.stringify(jsonData, null, 2));
+            persistData(jsonData);
         }
         return success;
     }

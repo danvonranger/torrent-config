@@ -3,6 +3,7 @@ const configData = require('../config/series/index');
 
 module.exports = function(app, db) {
     app.get('/api/series', (req, res) => {
+        console.log('GET /api/series');
         // returns details on all currnt tv shows, names and ids
         const includeDisabled = req.query.includeDisabled || false;
         const series = configData.allSeries(includeDisabled);
@@ -10,6 +11,7 @@ module.exports = function(app, db) {
     });
 
     app.get('/api/seasons/:id', (req, res) => {
+        console.log('GET /api/seasons/', req.params.id);
         // returns details on stored episodes for the give series id
         const seasons = configData.episodes(req.params.id);
         res.json(seasons);
@@ -20,6 +22,7 @@ module.exports = function(app, db) {
         const id = req.body.id;
         const episode = req.body.episode;
         const season = req.body.season;
+        console.log(`POST /api/update - id: ${id} episode: ${episode} season: ${season}`);
         const outcome = configData.updateSeries(id, season, episode);
         res.sendStatus(outcome ? 200 : 400);
     });
@@ -28,6 +31,7 @@ module.exports = function(app, db) {
         // for the given series id and season, all episodes are combined into an asterisks    
         const id = req.body.id;
         const season = req.body.season;
+        console.log(`POST /api/complete - id: ${id} season: ${season}`);
         const outcome = configData.complete(id, season);
         res.sendStatus(outcome ? 200 : 400);
     });
@@ -35,6 +39,7 @@ module.exports = function(app, db) {
     app.post('/api/add', (req, res) => {
         // adds a new show with zero episodes
         const name = req.body.name;
+        console.log('POST /api/add - name: ', name);
         let id = name.toLowerCase();
         id = id.replace(/\s/g, '');
         const item = configData.addShow(name, id);
@@ -45,6 +50,7 @@ module.exports = function(app, db) {
         // swich enable flag on a series to true or false
         const enabled = req.body.enabled;
         const id = req.body.id;
+        console.log(`POST /api/enable - id: ${id} enable: ${enabled}`);
         const success = configData.enableShow(id, enabled);
         res.sendStatus(success ? 200 : 400);
     });

@@ -1,0 +1,23 @@
+{
+    "series": [
+      {
+        "name": "12 Monkeys",
+        "id": "12monkeys",
+        "enabled": "true",
+        "episodes": [
+          {
+            "season": "1",
+            "episode": "*"
+          },
+          {
+            "season": "2",
+            "episode": "*"
+          },
+          {
+            "season": "3",
+            "episode": "*"
+          }
+        ]
+      }
+    ]
+}
