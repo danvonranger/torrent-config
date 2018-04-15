@@ -3,14 +3,7 @@ const fs = require('fs');
 const file = path.resolve(__dirname, 'series.json');
 const BreakException = {};
 
-// let data = null;
-
 const loadSeriesData = () => {
-    // if (!data) {
-    //     console.log('LOADING DATA...');
-    //     data = fs.readFileSync(file);
-    //     return JSON.parse(data);
-    // }
     const data = fs.readFileSync(file);
     return JSON.parse(data);
 }

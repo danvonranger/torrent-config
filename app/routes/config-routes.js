@@ -1,5 +1,6 @@
 
 const configData = require('../config/series/index');
+const downloader = require('../config/series/downloader');
 
 module.exports = function(app, db) {
     app.get('/api/series', (req, res) => {
@@ -23,7 +24,7 @@ module.exports = function(app, db) {
         const episode = req.body.episode;
         const season = req.body.season;
         console.log(`POST /api/update - id: ${id} episode: ${episode} season: ${season}`);
-        const outcome = configData.updateSeries(id, season, episode);
+        const outcome = configData.updateSeries(id, String(season), String(episode));
         res.sendStatus(outcome ? 200 : 400);
     });
 
@@ -52,6 +53,13 @@ module.exports = function(app, db) {
         const id = req.body.id;
         console.log(`POST /api/enable - id: ${id} enable: ${enabled}`);
         const success = configData.enableShow(id, enabled);
+        res.sendStatus(success ? 200 : 400);
+    });
+
+    app.post('/api/download', (req, res) => {
+        console.log(`POST /api/download - season: ${req.body.season} episode: ${req.body.episode}`);
+        const magnetDecoded = Buffer.from(String(req.body.magnet), 'base64').toString('ascii');
+        const success = downloader.trigger(magnetDecoded);
         res.sendStatus(success ? 200 : 400);
     });
 }
